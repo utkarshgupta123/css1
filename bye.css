@@ -1,0 +1,25 @@
+
+body{
+    color:brown
+}
+h1{
+color:red;
+}
+h2{
+    color:red;
+}
+.qw{
+text-decoration: line-through;
+}
+.qwe{
+    background-color:yellow;
+    font-style: italic;
+    font-weight: bold;
+}
+.zx{
+    letter-spacing: 5px;   
+}
+.bn{
+    font-style: italic;
+    text-decoration: underline;
+}
